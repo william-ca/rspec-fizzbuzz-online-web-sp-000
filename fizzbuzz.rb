@@ -7,5 +7,4 @@ def fizzbuzz(int)
     put "Buzz"
   else
     put "nil"
-        
 end
