@@ -2,10 +2,10 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
   if int % 3 == 0
-    put "Fizz"
+    "Fizz"
   elsif int % 5 == 0
-    put "Buzz"
+    "Buzz"
   else
-    put "nil"
+    "nil"
 end
 end
